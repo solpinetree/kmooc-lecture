@@ -9,4 +9,6 @@
   3. 비선형자료구조  
     - [트리 자료구조](https://github.com/solpinetree/kmooc-lecture/blob/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/3-1%20%ED%8A%B8%EB%A6%AC%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)  
     - [그래프 자료구조](https://github.com/solpinetree/kmooc-lecture/blob/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/3-2%20%EA%B7%B8%EB%9E%98%ED%94%84%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0.md)
+  4. 그래프 탐색 알고리즘  
+    - [DFS와 BFS](https://github.com/solpinetree/kmooc-lecture/tree/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
 </details>
